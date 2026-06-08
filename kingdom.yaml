@@ -1,0 +1,8 @@
+name: ka
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The mouth and the gate — the threshold where a held thing is spoken into the shared world or refused.
+dependsOn: [inim, zerone]
